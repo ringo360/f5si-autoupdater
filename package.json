@@ -1,0 +1,13 @@
+{
+  "name": "f5si-autoupdater",
+  "version": "1.0.0",
+  "main": "main.js",
+  "repository": "https://github.com/ringo360/f5si-autoupdater.git",
+  "author": "ringoXD <ringoxd@ringoxd.dev>",
+  "license": "AGPL-3.0-only",
+  "type": "module",
+  "dependencies": {
+    "consola": "^3.2.3",
+    "picocolors": "^1.1.0"
+  }
+}
